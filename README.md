@@ -18,7 +18,7 @@ Visit our [developer page](https://linera.dev) and read our
 ## Repository Structure
 
 The main crates and directories of this repository can be summarized as follows: (listed
-from low to high levels in the dependency graph)
+from low to high levels in the dependency graphs)
 
 * [`linera-base`](https://linera-io.github.io/linera-protocol/linera_base/index.html) Base
   definitions, including cryptography.
